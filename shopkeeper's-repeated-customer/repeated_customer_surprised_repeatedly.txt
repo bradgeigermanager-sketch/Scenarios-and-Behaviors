@@ -1,0 +1,226 @@
+Organizational SOP: Evaluation of Repeated Surprise Claims
+
+## **1. Purpose**
+This SOP establishes a standardized procedure for evaluating situations in which an individual repeatedly expresses “surprise,” “shock,” or “alarm” upon encountering a predictable person or event.  
+The goal is to determine whether the behavior reflects:
+
+- genuine perceptual surprise,  
+- emotional discomfort,  
+- mistaken interpretation,  
+- rhetorical framing,  
+- strategic communication, or  
+- reverse justification.
+
+This SOP ensures consistent, fair, and evidence‑based evaluation.
+
+---
+
+## **2. Scope**
+This SOP applies to:
+
+- retail environments,  
+- customer‑facing operations,  
+- compliance and oversight teams,  
+- behavioral review units,  
+- internal investigations,  
+- supervisory personnel.
+
+It covers **any repeated behavioral pattern** where “surprise” is expressed in a stable, predictable context.
+
+---
+
+## **3. Definitions**
+
+### **3.1 Genuine Surprise**
+A reaction consistent with immediate, involuntary physiological markers and aligned with the predictability of the event.
+
+### **3.2 Emotional Surprise**
+A reaction labeled as “surprise” but actually reflecting fear, discomfort, or aversion.
+
+### **3.3 Mistaken Interpretation**
+Surprise arising from misunderstanding roles, context, or expectations.
+
+### **3.4 Rhetorical Surprise**
+Use of “surprise” as a communicative device to express objection, disapproval, or concern.
+
+### **3.5 Strategic Surprise**
+Use of “surprise” to trigger policies, escalate situations, or justify actions.
+
+### **3.6 Reverse Justification**
+Post‑hoc insertion of “surprise” into a narrative to rationalize actions already taken.
+
+---
+
+## **4. Responsibilities**
+
+### **4.1 Observers**
+Responsible for real‑time data capture:
+- timestamps,  
+- behavioral markers,  
+- immediate verbal reactions.
+
+### **4.2 Reviewers**
+Responsible for:
+- narrative collection,  
+- incentive mapping,  
+- timeline comparison,  
+- scoring rubric application.
+
+### **4.3 Supervisors**
+Responsible for:
+- final classification,  
+- confidence assessment,  
+- recommendations,  
+- documentation retention.
+
+---
+
+## **5. Procedure**
+
+### **5.1 Phase 1 — Real‑Time Observation**
+Observers must record:
+- encounter time,  
+- reaction time,  
+- physiological markers (startle reflex, micro‑expressions),  
+- contextual factors (location, predictability, presence of others),  
+- immediate verbal statements.
+
+All observations must be timestamped and stored in the event log.
+
+---
+
+### **5.2 Phase 2 — Narrative Collection**
+Reviewers must collect:
+- statements made immediately after the event,  
+- statements made later the same day,  
+- statements made in subsequent days,  
+- statements made to different audiences.
+
+Narratives must be compared for consistency, escalation, or retroactive reinterpretation.
+
+---
+
+### **5.3 Phase 3 — Incentive Mapping**
+Reviewers must determine whether expressing surprise:
+- triggers emergency protocols,  
+- justifies intervention,  
+- shifts responsibility,  
+- creates documentation,  
+- escalates complaints.
+
+If incentives exist, note them explicitly.
+
+---
+
+### **5.4 Phase 4 — Timeline Diagnostic Algorithm**
+Reviewers must compare:
+- real‑time behavior,  
+- immediate reactions,  
+- post‑event narrative.
+
+Identify:
+- temporal mismatches,  
+- behavioral mismatches,  
+- narrative insertion,  
+- counterfactual inconsistencies.
+
+This determines whether surprise is genuine, emotional, mistaken, rhetorical, strategic, or reverse‑justified.
+
+---
+
+### **5.5 Phase 5 — Scoring Rubric Application**
+Reviewers must apply the 40‑point rubric across:
+- baseline cognitive updating,  
+- domain‑specific updating,  
+- emotional indicators,  
+- rhetorical indicators,  
+- mistaken interpretation indicators,  
+- reverse justification indicators.
+
+Compute:
+- total score (0–40),  
+- Reverse Justification Score (0–12).
+
+---
+
+### **5.6 Phase 6 — Decision‑Tree Classification**
+Supervisors must classify the behavior using the decision tree:
+
+- **Genuine Surprise**  
+- **Emotional Surprise**  
+- **Mistaken Interpretation**  
+- **Strategic Surprise**  
+- **Reverse Justification**  
+- **Cognitive Disconnection**
+
+Assign a confidence level:
+- High (≥80%),  
+- Moderate (50–79%),  
+- Low (≤49%).
+
+---
+
+### **5.7 Phase 7 — Recommendations**
+Based on classification, supervisors must recommend:
+
+- role clarification,  
+- emotional support,  
+- communication coaching,  
+- policy review,  
+- environmental adjustments,  
+- further cognitive evaluation,  
+- or escalation to compliance or HR.
+
+Recommendations must be documented.
+
+---
+
+## **6. Documentation Requirements**
+
+All evaluations must include:
+- event logs,  
+- narrative samples,  
+- scoring sheets,  
+- timeline comparison results,  
+- incentive mapping,  
+- classification output,  
+- recommendations.
+
+Documents must be retained according to organizational policy.
+
+---
+
+## **7. Quality Assurance**
+
+Supervisors must periodically audit:
+- scoring consistency,  
+- classification accuracy,  
+- narrative capture quality,  
+- observer neutrality,  
+- documentation completeness.
+
+Discrepancies must be corrected through retraining or procedural updates.
+
+---
+
+## **8. Ethical Considerations**
+
+Evaluators must:
+- avoid assumptions of bad faith,  
+- avoid bias,  
+- maintain confidentiality,  
+- ensure fairness,  
+- avoid coercive questioning,  
+- respect emotional states.
+
+This SOP is diagnostic, not punitive.
+
+---
+
+## **9. Revision and Maintenance**
+
+This SOP must be reviewed annually or after any major incident involving repeated surprise claims.  
+Updates must incorporate:
+- new behavioral research,  
+- operational feedback,  
+- compliance requirements.
