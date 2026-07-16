@@ -1,0 +1,280 @@
+ORGANIZATIONAL TRAINING MANUAL
+## **Evaluating Repeated Claims of Surprise in Predictable Contexts**
+
+---
+
+# **1. Introduction**
+
+Repeated expressions of “surprise” in a stable, predictable environment can indicate many different underlying mechanisms: genuine perceptual shock, emotional discomfort, misunderstanding, rhetorical framing, strategic communication, or reverse justification.
+
+This manual trains staff to:
+
+- recognize these mechanisms,  
+- collect evidence neutrally,  
+- apply the diagnostic framework consistently,  
+- classify behaviors accurately,  
+- and recommend appropriate follow‑up actions.
+
+This is a **diagnostic manual**, not a disciplinary one.
+
+---
+
+# **2. Core Concepts Staff Must Understand**
+
+### **2.1 Expectation Updating**
+People normally adjust expectations after repeated exposure.  
+Failure to update may indicate:
+- emotional conflict,  
+- misunderstanding,  
+- cognitive issues,  
+- or strategic motives.
+
+### **2.2 Surprise Categories**
+Staff must distinguish among:
+- **Genuine surprise**  
+- **Emotional discomfort**  
+- **Mistaken interpretation**  
+- **Rhetorical surprise**  
+- **Strategic surprise**  
+- **Reverse justification**  
+
+### **2.3 Neutrality**
+Staff must not assume:
+- deception,  
+- incompetence,  
+- bad faith,  
+- or malicious intent.
+
+All evaluations must be evidence‑based.
+
+---
+
+# **3. Roles and Responsibilities**
+
+### **3.1 Observers**
+Front‑line staff who witness the event.  
+Responsibilities:
+- capture real‑time behavior,  
+- record timestamps,  
+- note immediate verbal reactions,  
+- document environmental context.
+
+### **3.2 Reviewers**
+Analysts who evaluate the collected data.  
+Responsibilities:
+- gather narratives,  
+- perform incentive mapping,  
+- run the timeline diagnostic algorithm,  
+- apply the scoring rubric.
+
+### **3.3 Supervisors**
+Decision‑makers.  
+Responsibilities:
+- classify the behavior,  
+- assign confidence levels,  
+- recommend follow‑up actions,  
+- ensure documentation completeness.
+
+---
+
+# **4. Training Modules**
+
+## **Module 1 — Real‑Time Observation Skills**
+
+### **Key Skills**
+- Recognizing physiological surprise markers  
+- Recording reaction latency  
+- Capturing context neutrally  
+- Avoiding interpretation during observation
+
+### **Exercises**
+- Watch short video clips and identify startle reflexes  
+- Practice timestamp logging  
+- Simulate predictable encounters and record reactions  
+
+### **Performance Standard**
+Observers must reliably distinguish:
+- immediate surprise  
+- delayed surprise  
+- absence of surprise
+
+---
+
+## **Module 2 — Narrative Collection & Analysis**
+
+### **Key Skills**
+- Collecting statements without leading questions  
+- Identifying narrative drift  
+- Detecting escalation language  
+- Comparing narratives across time
+
+### **Exercises**
+- Practice neutral questioning  
+- Analyze sample narratives for inconsistencies  
+- Identify rhetorical framing in provided transcripts  
+
+### **Performance Standard**
+Reviewers must detect:
+- narrative insertion of surprise  
+- post‑hoc reinterpretation  
+- incentive‑aligned framing
+
+---
+
+## **Module 3 — Incentive Mapping**
+
+### **Key Skills**
+- Identifying organizational triggers  
+- Recognizing when “surprise” benefits the claimant  
+- Mapping procedural outcomes to claims
+
+### **Exercises**
+- Review organizational policies  
+- Identify which statements trigger escalation  
+- Analyze hypothetical cases for incentive alignment
+
+### **Performance Standard**
+Reviewers must determine whether surprise claims:
+- shift responsibility,  
+- justify intervention,  
+- trigger emergency protocols,  
+- or create documentation advantages.
+
+---
+
+## **Module 4 — Timeline Diagnostic Algorithm**
+
+### **Key Skills**
+- Comparing real‑time behavior to later narrative  
+- Detecting temporal mismatches  
+- Identifying behavioral incongruence  
+- Running the full diagnostic sequence
+
+### **Exercises**
+- Work through sample timelines  
+- Identify mismatches in provided cases  
+- Classify behaviors using the algorithm
+
+### **Performance Standard**
+Reviewers must produce:
+- a timeline congruence score,  
+- a mismatch analysis,  
+- and a preliminary classification.
+
+---
+
+## **Module 5 — Scoring Rubric Application**
+
+### **Key Skills**
+- Applying the 40‑point rubric consistently  
+- Scoring emotional, cognitive, and strategic indicators  
+- Computing the Reverse Justification Score (RJS)
+
+### **Exercises**
+- Score provided case studies  
+- Compare scoring across trainees  
+- Resolve scoring discrepancies
+
+### **Performance Standard**
+Reviewers must achieve:
+- ≥90% scoring consistency across cases.
+
+---
+
+## **Module 6 — Decision‑Tree Classification**
+
+### **Key Skills**
+- Using the decision tree accurately  
+- Distinguishing similar categories  
+- Assigning confidence levels  
+- Producing final classifications
+
+### **Exercises**
+- Classify sample cases  
+- Resolve ambiguous scenarios  
+- Practice confidence assignment
+
+### **Performance Standard**
+Supervisors must classify cases with:
+- clear justification,  
+- correct category selection,  
+- and appropriate confidence levels.
+
+---
+
+# **5. Training Scenarios**
+
+### **Scenario A — Genuine Surprise**
+Predictable event becomes unpredictable due to context shift.
+
+### **Scenario B — Emotional Surprise**
+Customer labels fear as “surprise.”
+
+### **Scenario C — Mistaken Interpretation**
+Customer misunderstands the shopkeeper’s role.
+
+### **Scenario D — Rhetorical Surprise**
+Customer uses “surprise” to express objection.
+
+### **Scenario E — Strategic Surprise**
+Customer benefits from portraying encounters as unexpected.
+
+### **Scenario F — Reverse Justification**
+Customer inserts surprise into the narrative after acting.
+
+Each scenario includes:
+- observation logs,  
+- narrative samples,  
+- incentive maps,  
+- scoring sheets,  
+- classification keys.
+
+---
+
+# **6. Evaluation of Trainees**
+
+### **6.1 Knowledge Tests**
+Written tests on:
+- surprise categories,  
+- diagnostic logic,  
+- incentive mapping.
+
+### **6.2 Practical Tests**
+Trainees must:
+- observe staged encounters,  
+- collect narratives,  
+- run the diagnostic algorithm,  
+- score the case,  
+- classify the behavior.
+
+### **6.3 Certification of Completion**
+Supervisors confirm:
+- competency in all modules,  
+- consistent scoring,  
+- accurate classification.
+
+(Not a formal license; internal competency only.)
+
+---
+
+# **7. Ethical Standards**
+
+Staff must:
+- maintain neutrality,  
+- avoid bias,  
+- respect emotional states,  
+- avoid coercive questioning,  
+- preserve confidentiality,  
+- document objectively.
+
+This manual is for **diagnosis**, not punishment.
+
+---
+
+# **8. Maintenance & Updates**
+
+The manual must be reviewed annually or after major incidents.  
+Updates must incorporate:
+- new behavioral research,  
+- operational feedback,  
+- policy changes.
